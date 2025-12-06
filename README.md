@@ -7,7 +7,7 @@
 
 ## 📸 Screenshot
 
-![Project Screenshot](docs/screenshot.png)
+![Project Screenshot](docs/Screenshot_20251205-235720_ChatGPT.jpg)
 
 ---
 
