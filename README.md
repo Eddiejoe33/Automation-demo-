@@ -7,7 +7,7 @@
 
 ## 📸 Screenshot
 
-![Project Screenshot](docs/screenshot.png)
+![Project Screenshot](docs/screenshot)
 
 ---
 
